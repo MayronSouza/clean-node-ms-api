@@ -1,0 +1,27 @@
+{
+  "name": "clean-node-ms-api",
+  "version": "0.0.1",
+  "description": "API para entendermos melhor o Clean Code, Clean Archtecture e Design Patterns, construída pelo Rodrigo Maguinho",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "fsdfsdfsd"
+  },
+  "keywords": [
+    "node.js",
+    "typescript",
+    "ecmascript",
+    "clean code",
+    "clean archtecture",
+    "design patterns",
+    "ports and adapters"
+  ],
+  "author": "Mayron Souza",
+  "license": "ISC",
+  "devDependencies": {
+    "git-commit-msg-linter": "^4.2.1"
+  }
+}
