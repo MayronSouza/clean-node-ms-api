@@ -20,6 +20,7 @@
     "import/no-unresolved": "off",
     "no-unused-vars": "off",
     "class-methods-use-this": "off",
-    "import/extensions": "off"
+    "import/extensions": "off",
+    "consistent-return": "off"
   }
 }
