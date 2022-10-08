@@ -23,6 +23,7 @@
     "import/extensions": "off",
     "consistent-return": "off",
     "no-restricted-syntax": "off",
-    "max-classes-per-file": "off"
+    "max-classes-per-file": "off",
+    "no-promise-executor-return": "off"
   }
 }
